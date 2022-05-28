@@ -23,8 +23,7 @@ The project is divided into three separate Jupyter notebooks:
 ## Implementation
 ## Programming Language:
 
-download (8).jpg
 
 ## Tools:
 
-download (4).png  , 68747470733a2f2f7777772e636c69706172746b65792e636f6d2f6d706e67732f6d2f3232372d323237313638395f7472616e73706172656e742d616e61636f6e64612d6c6f676f2d706e672e706e67.png
+

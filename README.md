@@ -11,19 +11,26 @@ It uses binary classification machine learning methods (random forest, k-nearest
 
 Dataset  https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
-The project is divided into three separate Jupyter notebooks:
+The project is divided into six separate Jupyter notebooks:
 
 1. Data Analysis
-2. Model - Model_K Nearest Neighbors,   
-                   Model Random forest,  
-                     Model Logistic Regression , 
-                      Model Navie Bayes, 
-4. Model Conclusions
+2. Model_K Nearest Neighbors
+3. Model Random forest
+4. Model Logistic Regression
+5. Model Navie Bayes, 
+6. Model Conclusions
 
 ## Implementation
+We used TensorFlow as main framework for this and use normal python libraries like matplotlib, NumPy, pandas, sklearn to other purposes.
 ## Programming Language:
-
+Python
 
 ## Tools:
+Jypyter , Anaconda
 
+## Authors
+### IT18257328 - Hemalka L.G.H.V.
+### IT18257946 - Balasooriya P.S.
+### IT18220216 - Liyanage L.H.G.M.
+### IT18231960 - Kaushalya W.A.
 
